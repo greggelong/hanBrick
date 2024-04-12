@@ -39,7 +39,7 @@ function setup() {
   let cx = windowWidth / 2 - cnv.width / 2;
   let cy = windowHeight / 2 - cnv.width / 2;
   cnv.position(cx, cy);
-  createP("Tap or Click for Sound!");
+  createP("Han Dynasty Brick Rubbing Come to Life!");
 
   //frameRate(5)
   imageMode(CENTER);
